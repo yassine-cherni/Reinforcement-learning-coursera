@@ -11,3 +11,4 @@ class Reward:
     def __init__(self, value):
         self.value = value
       
+# and the algorithme will learn step by step 
