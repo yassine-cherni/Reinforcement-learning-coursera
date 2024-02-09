@@ -1,4 +1,4 @@
-# [Graded]
+# [Graded_agent]
 def argmax(q_values):
     """
     Takes in a list of q_values and returns the index
