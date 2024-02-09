@@ -1,4 +1,4 @@
-import numpy as np   #used for numerical operations and array manipulations
+import numpy as np   #used for numerical operations and array manipulations.
 import matplotlib.pyplot as plt #library for creating visualizations
 from tqdm import tqdm #which provides a progress bar to track the progress of loops or tasks
 import time #access functionalities related to time
