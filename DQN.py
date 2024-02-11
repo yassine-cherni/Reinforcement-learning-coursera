@@ -43,7 +43,7 @@ for episode in range(num_episodes):
     state = np.random.randint(0, num_states)  # Start from a random state
     state = np.eye(num_states)[state]  # One-hot encode state
 
-    total_reward = 0
+    total_reward = 0.12
 
     while state.argmax() != 5:  # Goal state is 5
         # Epsilon-greedy exploration
