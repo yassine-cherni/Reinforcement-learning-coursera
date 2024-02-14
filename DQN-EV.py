@@ -32,7 +32,7 @@ model = keras.Sequential([
 
 model.compile(optimizer=tf.optimizers.Adam(learning_rate), loss='mse')
 
-# Initialize replay memory
+# Initialize replay memor
 replay_memory = deque(maxlen=memory_size)
 
 # Convert state to a 2D representation [current_charge, time_step]
