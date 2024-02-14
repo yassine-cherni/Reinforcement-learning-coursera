@@ -21,7 +21,7 @@ exploration_decay = 0.995
 min_exploration_prob = 0.01
 batch_size = 32
 memory_size = 1000
-num_episodes = 500
+num_episodes = 50
 
 # Define the DQN model
 model = keras.Sequential([
