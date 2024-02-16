@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as n
 import tensorflow as tf
 from tensorflow import keras
 from collections import deque
