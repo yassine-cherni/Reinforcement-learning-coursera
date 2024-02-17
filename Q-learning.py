@@ -12,7 +12,7 @@ reward_matrix = np.array([
     [-1, 0, -1, -1, 0, 100]
 ])
 
-# Q-learning parameter
+# Q-learning parameters
 learning_rate = 0.8
 discount_factor = 0.95
 num_episodes = 1000
