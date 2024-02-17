@@ -1,4 +1,4 @@
-import numpy as 
+import numpy as np
 import tensorflow as tf
 from tensorflow import keras
 import gym
