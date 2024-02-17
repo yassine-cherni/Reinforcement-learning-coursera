@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as n
 
 # Define the environment
 num_states = 6
